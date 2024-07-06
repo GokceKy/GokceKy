@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gökçe KELEŞYILMAZ</h1>
 <h3 align="center">A passionate software engineering student.</h3>
 
-- 🔭 I’m currently working on [java_flashcard](https://github.com/GokceKy/java_flashcard)
+- 🔭 I’m currently working on [java_e-coffee](https://github.com/GokceKy/e-coffee-website-jpa)
 
 - 🌱 I’m currently learning **Flutter**
 
