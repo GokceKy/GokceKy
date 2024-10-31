@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gökçe KELEŞYILMAZ</h1>
 <h3 align="center">A passionate software engineering student.</h3>
 
-- 🔭 I’m currently working on ([[digital_awareness_app](https://github.com/GokceKy/digital_awareness_app)](https://github.com/GokceKy/digital_awareness_app))
+- 🔭 I’m currently working on [digital_awareness_app](https://github.com/GokceKy/digital_awareness_app)
 
 - 🌱 I’m currently learning **Flutter**
 
