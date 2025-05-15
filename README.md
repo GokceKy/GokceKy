@@ -22,8 +22,9 @@
   <img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="40" />
 </a>
 </p>
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/GokceKy/github-profile-views-counter
+<a href="https://github.com/GokceKy/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=GokceKy&style=for-the-badge">
+</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
