@@ -22,7 +22,7 @@
   <img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="40" />
 </a>
 </p>
-
+![](https://komarev.com/ghpvc/?GokceKy=GokceKy&style=flat-square)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
